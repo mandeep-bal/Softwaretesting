@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/gurveen/Downloads/extendedOJ.jar"/>
+	<classpathentry kind="lib" path="C:/smc_6_6_3/bin/Smc.jar"/>
+	<classpathentry kind="lib" path="C:/smc_6_6_3/lib/Java/SmcGenerator.jar"/>
+	<classpathentry kind="lib" path="C:/smc_6_6_3/lib/Java/SmcModel.jar"/>
+	<classpathentry kind="lib" path="C:/smc_6_6_3/lib/Java/SmcParser.jar"/>
+	<classpathentry kind="lib" path="C:/smc_6_6_3/lib/Java/statemap.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
